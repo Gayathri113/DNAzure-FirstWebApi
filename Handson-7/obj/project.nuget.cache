@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dmM8MuglpkWAmraOKE9cHn3kqrj0tG+qxi0xDvrCgfMTm2/2GoYaEyD4Irvvh2G/X9CzO/1znKLspy37Mxu6Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gayathri\\source\\repos\\Handson-7\\Handson-7\\Handson-7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gayathri\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
